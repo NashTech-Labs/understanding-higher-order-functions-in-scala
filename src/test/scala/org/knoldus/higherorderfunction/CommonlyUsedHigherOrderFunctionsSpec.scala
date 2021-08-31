@@ -2,7 +2,7 @@ package org.knoldus.higherorderfunction
 
 import org.scalatest.flatspec.AnyFlatSpec
 
-class CommonlyUsedHigherOrderFunctionsTest extends AnyFlatSpec{
+class CommonlyUsedHigherOrderFunctionsSpec extends AnyFlatSpec{
 
   "map" should "take a function as its argument to transform a list" in
   {
